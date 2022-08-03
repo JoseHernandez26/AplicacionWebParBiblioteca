@@ -1,0 +1,12 @@
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.Model\bin\Debug\net6.0\AplicacionParaBiblioteca.Model.deps.json
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.Model\bin\Debug\net6.0\AplicacionParaBiblioteca.Model.dll
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.Model\bin\Debug\net6.0\AplicacionParaBiblioteca.Model.pdb
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.Model\obj\Debug\net6.0\AplicacionParaBiblioteca.Model.csproj.AssemblyReference.cache
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.Model\obj\Debug\net6.0\AplicacionParaBiblioteca.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.Model\obj\Debug\net6.0\AplicacionParaBiblioteca.Model.AssemblyInfoInputs.cache
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.Model\obj\Debug\net6.0\AplicacionParaBiblioteca.Model.AssemblyInfo.cs
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.Model\obj\Debug\net6.0\AplicacionParaBiblioteca.Model.csproj.CoreCompileInputs.cache
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.Model\obj\Debug\net6.0\AplicacionParaBiblioteca.Model.dll
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.Model\obj\Debug\net6.0\refint\AplicacionParaBiblioteca.Model.dll
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.Model\obj\Debug\net6.0\AplicacionParaBiblioteca.Model.pdb
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.Model\obj\Debug\net6.0\ref\AplicacionParaBiblioteca.Model.dll

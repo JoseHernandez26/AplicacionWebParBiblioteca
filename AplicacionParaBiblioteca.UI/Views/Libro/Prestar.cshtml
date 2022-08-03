@@ -1,0 +1,52 @@
+﻿@model IEnumerable<AplicacionParaBiblioteca.Model.HistorialDePrestamos>
+
+@{
+    ViewData["Title"] = "Prestar";
+}
+
+<h1>Prestar</h1>
+
+<p>
+    
+    <br/>
+    <a asp-action="Index">Regresar a La Pagina Principal</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Identificacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreCompleto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaDeDevolucion)
+            </th>
+              <th>
+                @Html.DisplayNameFor(model => model.IdPrestamo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Identificacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreCompleto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaDeDevolucion)
+            </td>
+          
+        </tr>
+}
+    </tbody>
+</table>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

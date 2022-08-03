@@ -1,0 +1,52 @@
+﻿@model IEnumerable<AplicacionParaBiblioteca.Model.HistorialDePrestamos>
+
+@{
+    ViewData["Title"] = "Devolver";
+}
+
+<h1>Devolver</h1>
+
+<p>
+    <a asp-action="Index">Regresar</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Identificacion
+            </th>
+            <th>
+                Nombre Completo
+            </th>
+            <th>
+               Fecha De Devolucion
+            </th>
+                <th>
+                @Html.DisplayNameFor(model => model.IdPrestamo)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Identificacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreCompleto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaDeDevolucion)
+            </td>
+              <td>
+                @Html.DisplayFor(modelItem => item.IdPrestamo)
+            </td>
+            <td>
+                @Html.ActionLink("Guardar", "Guardar", new {  Id=item.Id }) |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

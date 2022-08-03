@@ -1,0 +1,17 @@
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\bin\Debug\net6.0\AplicacionParaBiblioteca.DA.deps.json
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\bin\Debug\net6.0\AplicacionParaBiblioteca.DA.runtimeconfig.json
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\bin\Debug\net6.0\AplicacionParaBiblioteca.DA.dll
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\bin\Debug\net6.0\AplicacionParaBiblioteca.DA.pdb
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\bin\Debug\net6.0\AplicacionParaBiblioteca.Model.dll
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\bin\Debug\net6.0\AplicacionParaBiblioteca.Model.pdb
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\obj\Debug\net6.0\AplicacionParaBiblioteca.DA.csproj.AssemblyReference.cache
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\obj\Debug\net6.0\AplicacionParaBiblioteca.DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\obj\Debug\net6.0\AplicacionParaBiblioteca.DA.AssemblyInfoInputs.cache
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\obj\Debug\net6.0\AplicacionParaBiblioteca.DA.AssemblyInfo.cs
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\obj\Debug\net6.0\AplicacionParaBiblioteca.DA.csproj.CoreCompileInputs.cache
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\obj\Debug\net6.0\AplicacionParaBiblioteca.DA.csproj.CopyComplete
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\obj\Debug\net6.0\AplicacionParaBiblioteca.DA.dll
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\obj\Debug\net6.0\refint\AplicacionParaBiblioteca.DA.dll
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\obj\Debug\net6.0\AplicacionParaBiblioteca.DA.pdb
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\obj\Debug\net6.0\AplicacionParaBiblioteca.DA.genruntimeconfig.cache
+C:\Users\odise\Desktop\Semestre 4 año\Lenguajes Aplicaciones Comerciales\Laboratorio7\b83798laboratorio6-master\AplicacionParaBiblioteca.DA\obj\Debug\net6.0\ref\AplicacionParaBiblioteca.DA.dll
